@@ -1,0 +1,1 @@
+const getHash = () => location.hash
